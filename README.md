@@ -18,6 +18,6 @@ Download this script and run it in your local machine. Make sure you have the fo
 
 When browser opens a salesforce window:
 1. Login using the credentials.
-**** 2. Copy the entire url from the bar after logging in and paste in python.
+2. *** Copy the entire url from the bar after logging in and paste in python.
    Make sure the url looks something like this : https://login.salesforce.com/?code=aPrxYXyxzkuBzbDGdwv67qekAQredtrsWqtxxxxxxx
 3. The refresh token should be visible in terminal now. 
