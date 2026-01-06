@@ -8,7 +8,7 @@ https://knowledge.informatica.com/s/article/000209105?language=en_US
 
 Before running the script, make sure the connected app is configured in salesforce properly with all the settings (refer to the article)
 
-Download this script and run it in you local machine. Make sure you have the following credentials ready beforehand:
+Download this script and run it in your local machine. Make sure you have the following credentials ready beforehand:
 1. Login URL
 2. Client ID
 3. Client Secret
