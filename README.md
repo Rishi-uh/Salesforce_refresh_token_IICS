@@ -2,6 +2,7 @@
 This is a python script for easy generation of the salesforce refresh token for Oauth connectivity for IICS.
 
 If you don't want to download and run the script yourself, you can run it from the cloud servers at streamlit. Just follow the link and put in the required info: https://salesforcerefreshtokeniics.streamlit.app 
+NOTE: Streamlit is a third party cloud hosting tool, please be careful before inputting any sensitive information.
 
 The following project was developed for creating salesforce refresh tokens for connectivity with IICS. Used gemini 3.0 pro for support and comments/readability.
 
